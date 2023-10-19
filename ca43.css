@@ -1,0 +1,123 @@
+body{
+    background-color: white;
+    color: black;
+ 
+    font-family: sans-serif;
+
+}
+.conit{
+    display: flex;
+
+justify-content: center;
+}
+
+
+.dis{
+    display: flex; justify-content: center;
+}
+
+
+.para{
+    padding-left: 20px;
+    margin-block-end: 0px; margin-block-start: 0px;
+    
+padding-bottom: 12px;
+}
+
+
+.bea{
+   
+    width: 90px;
+    background-color: red;
+    height:30px;
+}
+textarea{
+width:476;
+height: 400;
+}
+.ao{
+    user-select: none;
+    
+}
+.diva{
+    display: inline-flex;
+    justify-content: center;
+    background-color: red;
+color: white
+;
+padding-top: 10px;
+padding-bottom: 10px;
+width: 400px;
+align-items: center;
+}
+.ka{
+
+    user-select: none;
+    
+}
+.divMistakes{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+
+    font-size: 18px;
+
+}
+.divMistake{
+
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+    
+    font-size: 18px;
+}
+#noas{
+
+padding-top: 10px;
+
+background-color: black;
+display: none;
+padding-bottom: 10px;
+width: 400px;
+display: flex;
+
+justify-content: center;
+}
+#hello{
+    background-color: #33ca7f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+  
+    justify-content: center;
+    display: none;
+}
+#deatal{
+     position: fixed;
+    width:  100%;
+    height: 100%;
+    display:flex;
+color: white;
+    justify-content: center;
+    align-items: center;
+
+    left: 0;
+    right: 0;
+display: none;
+background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    bottom: 0;
+    z-index: 200;
+}
+.detail{
+    width: 90px;
+    background-color: blue;
+    height:30px;
+}
+
+.paraGraph{
+display: flex;
+justify-content: center;
+}
